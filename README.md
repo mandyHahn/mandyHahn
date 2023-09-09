@@ -1,8 +1,6 @@
 ## Hey everyone! 👋
 
-Welcome to my GitHub profile! I'm Amanda Hahn, a second year Honours Computer Science (co-op) student at the University of Guelph. I'm relatively new to GitHub, but I'm excited to start learning more about it and sharing more projects! 
-
-Here you'll mostly find my personal projects and work from hackathons. I also plan on starting more personal projects in the near future, so keep an eye out on my profile for more additions! 
+Welcome to my GitHub profile! I'm Amanda Hahn, a fourth-year Honours Computer Science (co-op) student at the University of Guelph. Here you'll mostly find my personal projects and work from hackathons. I also plan on starting more personal projects in the near future, so keep an eye out on my profile for more additions! 
 
 ### Contact Info:
 - School Email: ahahn01@uoguelph.ca
